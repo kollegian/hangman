@@ -1,0 +1,11 @@
+--- !ruby/object:Guess
+guess:
+- " h "
+- " a "
+- " save "
+- " * "
+- " * "
+- " * "
+- " * "
+- " * "
+try: 3
